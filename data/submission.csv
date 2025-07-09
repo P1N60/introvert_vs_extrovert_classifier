@@ -103,7 +103,7 @@ id,Personality
 18625,Extrovert
 18626,Extrovert
 18627,Extrovert
-18628,Introvert
+18628,Extrovert
 18629,Extrovert
 18630,Extrovert
 18631,Extrovert
@@ -786,7 +786,7 @@ id,Personality
 19308,Extrovert
 19309,Introvert
 19310,Extrovert
-19311,Introvert
+19311,Extrovert
 19312,Extrovert
 19313,Extrovert
 19314,Extrovert
@@ -888,7 +888,7 @@ id,Personality
 19410,Extrovert
 19411,Introvert
 19412,Introvert
-19413,Introvert
+19413,Extrovert
 19414,Extrovert
 19415,Extrovert
 19416,Extrovert
@@ -937,7 +937,7 @@ id,Personality
 19459,Extrovert
 19460,Extrovert
 19461,Extrovert
-19462,Introvert
+19462,Extrovert
 19463,Extrovert
 19464,Extrovert
 19465,Extrovert
@@ -946,7 +946,7 @@ id,Personality
 19468,Extrovert
 19469,Introvert
 19470,Extrovert
-19471,Introvert
+19471,Extrovert
 19472,Introvert
 19473,Introvert
 19474,Extrovert
@@ -1216,7 +1216,7 @@ id,Personality
 19738,Introvert
 19739,Extrovert
 19740,Extrovert
-19741,Introvert
+19741,Extrovert
 19742,Extrovert
 19743,Extrovert
 19744,Extrovert
@@ -1226,7 +1226,7 @@ id,Personality
 19748,Extrovert
 19749,Extrovert
 19750,Extrovert
-19751,Introvert
+19751,Extrovert
 19752,Extrovert
 19753,Extrovert
 19754,Extrovert
@@ -1237,7 +1237,7 @@ id,Personality
 19759,Extrovert
 19760,Introvert
 19761,Extrovert
-19762,Introvert
+19762,Extrovert
 19763,Extrovert
 19764,Introvert
 19765,Extrovert
@@ -1339,7 +1339,7 @@ id,Personality
 19861,Extrovert
 19862,Extrovert
 19863,Extrovert
-19864,Introvert
+19864,Extrovert
 19865,Extrovert
 19866,Extrovert
 19867,Extrovert
@@ -1356,10 +1356,10 @@ id,Personality
 19878,Introvert
 19879,Introvert
 19880,Extrovert
-19881,Introvert
+19881,Extrovert
 19882,Extrovert
 19883,Extrovert
-19884,Introvert
+19884,Extrovert
 19885,Extrovert
 19886,Introvert
 19887,Extrovert
@@ -1420,7 +1420,7 @@ id,Personality
 19942,Extrovert
 19943,Extrovert
 19944,Introvert
-19945,Introvert
+19945,Extrovert
 19946,Introvert
 19947,Introvert
 19948,Extrovert
@@ -1534,7 +1534,7 @@ id,Personality
 20056,Extrovert
 20057,Introvert
 20058,Extrovert
-20059,Introvert
+20059,Extrovert
 20060,Extrovert
 20061,Extrovert
 20062,Extrovert
@@ -1543,7 +1543,7 @@ id,Personality
 20065,Extrovert
 20066,Extrovert
 20067,Introvert
-20068,Introvert
+20068,Extrovert
 20069,Introvert
 20070,Extrovert
 20071,Introvert
@@ -1582,7 +1582,7 @@ id,Personality
 20104,Extrovert
 20105,Extrovert
 20106,Extrovert
-20107,Introvert
+20107,Extrovert
 20108,Extrovert
 20109,Extrovert
 20110,Extrovert
@@ -1605,7 +1605,7 @@ id,Personality
 20127,Introvert
 20128,Introvert
 20129,Extrovert
-20130,Introvert
+20130,Extrovert
 20131,Extrovert
 20132,Extrovert
 20133,Extrovert
@@ -1830,7 +1830,7 @@ id,Personality
 20352,Extrovert
 20353,Extrovert
 20354,Extrovert
-20355,Introvert
+20355,Extrovert
 20356,Extrovert
 20357,Extrovert
 20358,Introvert
@@ -1986,7 +1986,7 @@ id,Personality
 20508,Introvert
 20509,Extrovert
 20510,Extrovert
-20511,Introvert
+20511,Extrovert
 20512,Extrovert
 20513,Extrovert
 20514,Introvert
@@ -2017,10 +2017,10 @@ id,Personality
 20539,Extrovert
 20540,Extrovert
 20541,Introvert
-20542,Introvert
+20542,Extrovert
 20543,Extrovert
 20544,Extrovert
-20545,Introvert
+20545,Extrovert
 20546,Introvert
 20547,Extrovert
 20548,Extrovert
@@ -2037,7 +2037,7 @@ id,Personality
 20559,Extrovert
 20560,Introvert
 20561,Extrovert
-20562,Introvert
+20562,Extrovert
 20563,Introvert
 20564,Extrovert
 20565,Extrovert
@@ -2058,7 +2058,7 @@ id,Personality
 20580,Extrovert
 20581,Extrovert
 20582,Extrovert
-20583,Introvert
+20583,Extrovert
 20584,Extrovert
 20585,Extrovert
 20586,Extrovert
@@ -2127,7 +2127,7 @@ id,Personality
 20649,Extrovert
 20650,Introvert
 20651,Extrovert
-20652,Introvert
+20652,Extrovert
 20653,Extrovert
 20654,Introvert
 20655,Introvert
@@ -2288,7 +2288,7 @@ id,Personality
 20810,Extrovert
 20811,Extrovert
 20812,Extrovert
-20813,Introvert
+20813,Extrovert
 20814,Extrovert
 20815,Extrovert
 20816,Introvert
@@ -2399,7 +2399,7 @@ id,Personality
 20921,Extrovert
 20922,Introvert
 20923,Extrovert
-20924,Introvert
+20924,Extrovert
 20925,Introvert
 20926,Extrovert
 20927,Extrovert
@@ -2490,14 +2490,14 @@ id,Personality
 21012,Introvert
 21013,Extrovert
 21014,Extrovert
-21015,Introvert
+21015,Extrovert
 21016,Extrovert
 21017,Extrovert
 21018,Introvert
 21019,Extrovert
 21020,Extrovert
 21021,Extrovert
-21022,Introvert
+21022,Extrovert
 21023,Extrovert
 21024,Extrovert
 21025,Extrovert
@@ -2613,7 +2613,7 @@ id,Personality
 21135,Introvert
 21136,Introvert
 21137,Introvert
-21138,Introvert
+21138,Extrovert
 21139,Introvert
 21140,Extrovert
 21141,Extrovert
@@ -2681,7 +2681,7 @@ id,Personality
 21203,Extrovert
 21204,Extrovert
 21205,Extrovert
-21206,Introvert
+21206,Extrovert
 21207,Extrovert
 21208,Extrovert
 21209,Extrovert
@@ -2692,7 +2692,7 @@ id,Personality
 21214,Extrovert
 21215,Extrovert
 21216,Introvert
-21217,Introvert
+21217,Extrovert
 21218,Extrovert
 21219,Extrovert
 21220,Extrovert
@@ -2812,7 +2812,7 @@ id,Personality
 21334,Extrovert
 21335,Extrovert
 21336,Extrovert
-21337,Introvert
+21337,Extrovert
 21338,Extrovert
 21339,Extrovert
 21340,Extrovert
@@ -2995,7 +2995,7 @@ id,Personality
 21517,Extrovert
 21518,Introvert
 21519,Extrovert
-21520,Introvert
+21520,Extrovert
 21521,Extrovert
 21522,Extrovert
 21523,Introvert
@@ -3015,7 +3015,7 @@ id,Personality
 21537,Introvert
 21538,Introvert
 21539,Extrovert
-21540,Introvert
+21540,Extrovert
 21541,Extrovert
 21542,Extrovert
 21543,Extrovert
@@ -3142,7 +3142,7 @@ id,Personality
 21664,Extrovert
 21665,Introvert
 21666,Extrovert
-21667,Introvert
+21667,Extrovert
 21668,Introvert
 21669,Introvert
 21670,Extrovert
@@ -3171,7 +3171,7 @@ id,Personality
 21693,Extrovert
 21694,Extrovert
 21695,Extrovert
-21696,Introvert
+21696,Extrovert
 21697,Extrovert
 21698,Introvert
 21699,Introvert
@@ -3186,7 +3186,7 @@ id,Personality
 21708,Introvert
 21709,Extrovert
 21710,Introvert
-21711,Introvert
+21711,Extrovert
 21712,Extrovert
 21713,Extrovert
 21714,Extrovert
@@ -3211,7 +3211,7 @@ id,Personality
 21733,Extrovert
 21734,Extrovert
 21735,Extrovert
-21736,Introvert
+21736,Extrovert
 21737,Introvert
 21738,Extrovert
 21739,Extrovert
@@ -3269,7 +3269,7 @@ id,Personality
 21791,Extrovert
 21792,Extrovert
 21793,Extrovert
-21794,Introvert
+21794,Extrovert
 21795,Extrovert
 21796,Extrovert
 21797,Introvert
@@ -3444,7 +3444,7 @@ id,Personality
 21966,Introvert
 21967,Extrovert
 21968,Extrovert
-21969,Introvert
+21969,Extrovert
 21970,Extrovert
 21971,Introvert
 21972,Extrovert
@@ -3479,7 +3479,7 @@ id,Personality
 22001,Extrovert
 22002,Introvert
 22003,Extrovert
-22004,Introvert
+22004,Extrovert
 22005,Extrovert
 22006,Extrovert
 22007,Extrovert
@@ -3587,7 +3587,7 @@ id,Personality
 22109,Extrovert
 22110,Extrovert
 22111,Extrovert
-22112,Introvert
+22112,Extrovert
 22113,Extrovert
 22114,Extrovert
 22115,Extrovert
@@ -3652,7 +3652,7 @@ id,Personality
 22174,Extrovert
 22175,Introvert
 22176,Extrovert
-22177,Introvert
+22177,Extrovert
 22178,Extrovert
 22179,Extrovert
 22180,Extrovert
@@ -3794,7 +3794,7 @@ id,Personality
 22316,Introvert
 22317,Extrovert
 22318,Extrovert
-22319,Introvert
+22319,Extrovert
 22320,Introvert
 22321,Introvert
 22322,Extrovert
@@ -3874,7 +3874,7 @@ id,Personality
 22396,Introvert
 22397,Introvert
 22398,Extrovert
-22399,Introvert
+22399,Extrovert
 22400,Extrovert
 22401,Extrovert
 22402,Extrovert
@@ -3915,7 +3915,7 @@ id,Personality
 22437,Introvert
 22438,Introvert
 22439,Extrovert
-22440,Introvert
+22440,Extrovert
 22441,Extrovert
 22442,Extrovert
 22443,Extrovert
@@ -4031,7 +4031,7 @@ id,Personality
 22553,Introvert
 22554,Extrovert
 22555,Extrovert
-22556,Introvert
+22556,Extrovert
 22557,Extrovert
 22558,Extrovert
 22559,Introvert
@@ -4135,14 +4135,14 @@ id,Personality
 22657,Extrovert
 22658,Extrovert
 22659,Extrovert
-22660,Extrovert
+22660,Introvert
 22661,Extrovert
 22662,Extrovert
 22663,Introvert
 22664,Extrovert
 22665,Extrovert
 22666,Extrovert
-22667,Introvert
+22667,Extrovert
 22668,Introvert
 22669,Introvert
 22670,Introvert
@@ -4182,7 +4182,7 @@ id,Personality
 22704,Extrovert
 22705,Extrovert
 22706,Extrovert
-22707,Introvert
+22707,Extrovert
 22708,Extrovert
 22709,Extrovert
 22710,Extrovert
@@ -4294,7 +4294,7 @@ id,Personality
 22816,Extrovert
 22817,Extrovert
 22818,Extrovert
-22819,Introvert
+22819,Extrovert
 22820,Extrovert
 22821,Extrovert
 22822,Introvert
@@ -4452,7 +4452,7 @@ id,Personality
 22974,Introvert
 22975,Extrovert
 22976,Extrovert
-22977,Introvert
+22977,Extrovert
 22978,Extrovert
 22979,Extrovert
 22980,Extrovert
@@ -4523,7 +4523,7 @@ id,Personality
 23045,Extrovert
 23046,Extrovert
 23047,Extrovert
-23048,Introvert
+23048,Extrovert
 23049,Extrovert
 23050,Introvert
 23051,Extrovert
@@ -4652,7 +4652,7 @@ id,Personality
 23174,Extrovert
 23175,Extrovert
 23176,Extrovert
-23177,Introvert
+23177,Extrovert
 23178,Introvert
 23179,Introvert
 23180,Introvert
@@ -4720,7 +4720,7 @@ id,Personality
 23242,Extrovert
 23243,Extrovert
 23244,Introvert
-23245,Introvert
+23245,Extrovert
 23246,Extrovert
 23247,Extrovert
 23248,Extrovert
@@ -4945,7 +4945,7 @@ id,Personality
 23467,Extrovert
 23468,Introvert
 23469,Introvert
-23470,Introvert
+23470,Extrovert
 23471,Extrovert
 23472,Extrovert
 23473,Extrovert
@@ -5043,7 +5043,7 @@ id,Personality
 23565,Extrovert
 23566,Extrovert
 23567,Extrovert
-23568,Introvert
+23568,Extrovert
 23569,Extrovert
 23570,Extrovert
 23571,Extrovert
@@ -5119,7 +5119,7 @@ id,Personality
 23641,Extrovert
 23642,Extrovert
 23643,Introvert
-23644,Introvert
+23644,Extrovert
 23645,Extrovert
 23646,Extrovert
 23647,Extrovert
@@ -5189,7 +5189,7 @@ id,Personality
 23711,Extrovert
 23712,Introvert
 23713,Extrovert
-23714,Introvert
+23714,Extrovert
 23715,Introvert
 23716,Extrovert
 23717,Extrovert
@@ -5449,7 +5449,7 @@ id,Personality
 23971,Extrovert
 23972,Extrovert
 23973,Extrovert
-23974,Introvert
+23974,Extrovert
 23975,Extrovert
 23976,Extrovert
 23977,Introvert
@@ -5580,7 +5580,7 @@ id,Personality
 24102,Extrovert
 24103,Extrovert
 24104,Introvert
-24105,Introvert
+24105,Extrovert
 24106,Introvert
 24107,Extrovert
 24108,Extrovert
@@ -5651,7 +5651,7 @@ id,Personality
 24173,Extrovert
 24174,Extrovert
 24175,Introvert
-24176,Introvert
+24176,Extrovert
 24177,Extrovert
 24178,Extrovert
 24179,Introvert
@@ -5752,7 +5752,7 @@ id,Personality
 24274,Extrovert
 24275,Extrovert
 24276,Extrovert
-24277,Introvert
+24277,Extrovert
 24278,Introvert
 24279,Extrovert
 24280,Extrovert
@@ -5775,7 +5775,7 @@ id,Personality
 24297,Extrovert
 24298,Extrovert
 24299,Introvert
-24300,Introvert
+24300,Extrovert
 24301,Extrovert
 24302,Introvert
 24303,Introvert
@@ -5887,7 +5887,7 @@ id,Personality
 24409,Extrovert
 24410,Extrovert
 24411,Extrovert
-24412,Introvert
+24412,Extrovert
 24413,Extrovert
 24414,Introvert
 24415,Extrovert
@@ -6025,7 +6025,7 @@ id,Personality
 24547,Introvert
 24548,Introvert
 24549,Extrovert
-24550,Introvert
+24550,Extrovert
 24551,Extrovert
 24552,Introvert
 24553,Extrovert
@@ -6035,7 +6035,7 @@ id,Personality
 24557,Extrovert
 24558,Extrovert
 24559,Extrovert
-24560,Introvert
+24560,Extrovert
 24561,Introvert
 24562,Extrovert
 24563,Extrovert
@@ -6090,7 +6090,7 @@ id,Personality
 24612,Introvert
 24613,Extrovert
 24614,Extrovert
-24615,Introvert
+24615,Extrovert
 24616,Extrovert
 24617,Extrovert
 24618,Extrovert
@@ -6153,7 +6153,7 @@ id,Personality
 24675,Introvert
 24676,Introvert
 24677,Introvert
-24678,Introvert
+24678,Extrovert
 24679,Extrovert
 24680,Extrovert
 24681,Extrovert
